@@ -340,7 +340,7 @@ body {
         font-weight: 700;
     }
     .black-white-img-width {
-        width: 340px;
+        width: 100%;
         height: auto;
     }
     .img-width {
