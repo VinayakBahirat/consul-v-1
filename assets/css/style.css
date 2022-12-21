@@ -266,7 +266,7 @@ body {
     border: 0px;
 }
 .black-white-img-width {
-    width: 340px;
+    width: 100%;
     height: auto;
 }
 .clients-section-sub-heading {
@@ -338,5 +338,9 @@ body {
         font-size: 36px;
         line-height: 43px;
         font-weight: 700;
+    }
+    .black-white-img-width {
+        width: 340px;
+        height: auto;
     }
 }
